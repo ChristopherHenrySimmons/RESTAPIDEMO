@@ -1,0 +1,16 @@
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.AssemblyInfoInputs.cache
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.AssemblyInfo.cs
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\RESTAPIDEMO.deps.json
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\RESTAPIDEMO.runtimeconfig.json
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\RESTAPIDEMO.runtimeconfig.dev.json
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\RESTAPIDEMO.dll
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.csprojAssemblyReference.cache
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.RazorAssemblyInfo.cache
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.RazorAssemblyInfo.cs
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.RazorTargetAssemblyInfo.cache
+C:\Users\21600681\source\repos\RESTAPIDEMO\bin\Debug\netcoreapp2.2\RESTAPIDEMO.pdb
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.dll
+C:\Users\21600681\source\repos\RESTAPIDEMO\obj\Debug\netcoreapp2.2\RESTAPIDEMO.pdb
